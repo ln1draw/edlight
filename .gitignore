@@ -31,3 +31,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# ignore key for google api
+/config/iconic-setup-407400-8cb3c5012747.json
+
+# ignore images
+/public/uploads/image_datum/
+/config/app_environment_variables.rb
